@@ -293,7 +293,7 @@ export const ReservationsDetails = () => {
               <input
                 type="number"
                 id="username"
-                className="mt-1 focus:ring-indigo-500 focus:border-indigo-500 py-1 border-indigo-200 w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
+                className="mt-1   focus:ring-indigo-500 focus:border-indigo-500 py-1 border-indigo-200 w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                 placeholder="Input Payment"
                 onChange={handlePaid}
               />
